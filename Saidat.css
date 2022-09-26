@@ -1,0 +1,18 @@
+body{
+    background-color:gray;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: inherit;
+}
+#MY{
+    background-color: aqua;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.I{
+    background-color: aqua;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
